@@ -1,0 +1,10 @@
+{
+  "origins": [
+    "https://blog.auspiceshirley.dev",
+    "http://localhost:4321"
+  ],
+  "originsRegex": [
+    "https://([A-z0-9-]+\\.)*auspiceshirley-blog\\.pages\\.dev"
+  ],
+  "defaultCommentOrder": "newest"
+}
