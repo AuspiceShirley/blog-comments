@@ -1,7 +1,6 @@
 {
   "origins": [
-    "https://blog.auspiceshirley.dev",
-    "http://localhost:1313"
+    "https://blog.auspiceshirley.dev"
   ],
   "originsRegex": [
     "https://([A-z0-9-]+\\.)*auspiceshirley-blog\\.pages\\.dev"
